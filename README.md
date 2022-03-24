@@ -13,6 +13,6 @@
 10. A continuación abrimos otro selector de tipo con la etiqueta "img" y las características "width: 100%; border-radius: 5%" para que se ajuste la imagen a la maxima altura y que los bordes sean un poco redondos.
 11. Para casi acabar hacemos un selector de tipo de la etiqueta "iframe" y le aplicamos las características "width: 100%; border-radius: 5%;" para que se ajuste el video a la maxima altura y que los bordes sean un poco redondos.
 12. Y para acabar abrimos el último selector de tipo "a" y ponemos la característica "text-decoration:none" para quitar todo tipo de subrayado, reborde ... 
-13. A continuación hacemos un selector id con nombre "footer" y aplicamos las características "background-color: black; padding: 25%; padding-top: 25px; padding-bottom: 25px;" esto sirve para darle color de fondo a nuestro pie de página, darle margen tanto por los lados como por arriba.
+13¡`ñ A continuación hacemos un selector id con nombre "footer" y aplicamos las características "background-color: black; padding: 25%; padding-top: 25px; padding-bottom: 25px;" esto sirve para darle color de fondo a nuestro pie de página, darle margen tanto por los lados como por arriba.
 14. Por último de verdad abrimos el selector de tipo "footer" y aplicamos las características "text-align: center;
     color: white;" esto sirve para darle color a las letras de dentro y para alinearlas en el centro.
