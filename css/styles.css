@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@300&display=swap');
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#header {
+    font-family: 'Smooch Sans', sans-serif;
+    background-image: url("../img/Fondo-Encabezado.png");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.h1-tittle {
+    color: white;
+    font-size: 50px;
+    padding: 25% 35%;
+    padding-top: 0;
+    text-align: center;
+}
+
+body {
+    margin: 0%;
+}
+
+#body {
+    padding: 1% 25%;
+    background-color: aqua;
+    font-family: 'Smooch Sans', sans-serif;
+}
+
+h2 {
+    color: blue;
+}
+
+img {
+    width: 100%;
+    border-radius: 5%;
+}
+
+iframe {
+    width: 100%;
+    border-radius: 5%;
+}
+
+a {
+    text-decoration: none;
+}
+
+#footer {
+    background-color: black;
+    padding: 25%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+footer {
+    text-align: center;
+    color: white;
+}
